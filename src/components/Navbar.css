@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.nav {
+  background-color: darkslategray;
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 0 1rem;
+  font-size: 2rem;
+}
+.site-title {
+  font-size: 3rem;
+}
+
+.nav ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}
