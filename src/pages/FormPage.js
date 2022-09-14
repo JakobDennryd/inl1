@@ -1,4 +1,5 @@
 import React from "react";
+import TodoForm from "../components/TodoForm";
 export default function FormPage() {
-  return <h1>Form</h1>;
+  return <TodoForm />;
 }

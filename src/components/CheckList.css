@@ -1,0 +1,10 @@
+.checked-item {
+  text-decoration: line-through;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
